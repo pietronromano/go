@@ -10,7 +10,6 @@
 # But not these files...
 !.gitignore
 !launch.json
-!.DS_Store
 !*.go
 !go.sum
 !go.mod
